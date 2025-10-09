@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-talento-tech",
+  "version": "1.0.0",
+  "description": "Pre entrega de proyecto para el curso de NodeJS de Talento Tech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nicolás Alancay",
+  "license": "MIT",
+  "type": "module"
+}
